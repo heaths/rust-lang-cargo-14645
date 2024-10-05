@@ -6,3 +6,5 @@ publish = true
 
 [dependencies]
 foo = { version = "0.1.0", path = "deps/foo" }
+
+[workspace.lints]
