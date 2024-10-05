@@ -5,4 +5,4 @@ members = [
 ]
 
 [workspace.lints.clippy]
-useless_format = "allow"
+# useless_format = "allow"
