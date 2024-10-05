@@ -1,0 +1,8 @@
+[package]
+name = "rust-lang-cargo-14645"
+version = "0.1.0"
+edition = "2021"
+publish = true
+
+[dependencies]
+foo = { version = "0.1.0", path = "deps/foo" }

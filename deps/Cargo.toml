@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+  "foo",
+]
+
+[workspace.lints.clippy]
+useless_format = "allow"
